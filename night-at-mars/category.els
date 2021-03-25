@@ -1,0 +1,20 @@
+<category parent="../category.els" link="night-at-mars" title="Night at Mars">
+    <artifact
+        title="Night at Mars (pdf)"
+        summary="First story on ukrainian language (pdf)"
+        local="night-at-mars.pdf"
+        url="http://docs.google.com/document/d/1HGzARiA1a0ypgXoBA-jhHhqjMlJCqxBYWOXKN1pqEdU/export?format=pdf"
+    />
+    <artifact
+        title="Night at Mars (ePub)"
+        summary="First story on ukrainian language (ePub)"
+        local="night-at-mars.epub"
+        url="http://docs.google.com/document/d/1HGzARiA1a0ypgXoBA-jhHhqjMlJCqxBYWOXKN1pqEdU/export?format=epub"
+    />
+    <artifact
+        title="Night at Mars (docx)"
+        summary="First story on ukrainian language (docx)"
+        local="night-at-mars.docx"
+        url="http://docs.google.com/document/d/1HGzARiA1a0ypgXoBA-jhHhqjMlJCqxBYWOXKN1pqEdU/export?format=docx"
+    />
+</category>
